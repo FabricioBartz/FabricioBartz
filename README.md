@@ -25,7 +25,6 @@ Me chamo Fabricio Fiss Bartz, moro no Rio Grande do Sul. Tenho graduação em En
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-         
 <img 
     aliggn="left"
     alt="C Programming Language"
