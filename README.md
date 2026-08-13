@@ -20,6 +20,13 @@ Me chamo Fabricio Fiss Bartz, moro no Rio Grande do Sul. Tenho graduação em En
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img 
     aliggn="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />       
+<img 
+    aliggn="left"
     alt="react"
     title="react"
     width="30px"
@@ -39,6 +46,13 @@ Me chamo Fabricio Fiss Bartz, moro no Rio Grande do Sul. Tenho graduação em En
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img 
+    aliggn="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img 
     aliggn="left"
     alt="vscode"
