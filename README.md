@@ -10,75 +10,75 @@ Me chamo Fabricio Fiss Bartz, moro no Rio Grande do Sul. Tenho graduação em En
 ---
 ### 🤖 Linguagens e Tecnologias
 
-
-<img 
-    aliggn="left"
-    alt="python"
-    title="python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img 
-    aliggn="left"
-    alt="java"
-    title="java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />       
-<img 
-    aliggn="left"
-    alt="react"
-    title="react"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img 
-    aliggn="left"
-    alt="C Programming Language"
-    title="C Programming Language"
-    width="27px"
-    style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-<img 
-    aliggn="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img 
-    aliggn="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img 
-    aliggn="left"
-    alt="vscode"
-    title="vscode"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img 
-    aliggn="left"
-    alt="Photoshop"
-    title="Photoshop"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img 
-    aliggn="left"
-    alt="Canva"
-    title="Canva"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
-<img 
-    aliggn="left"
-    alt="CapCut"
-    title="CapCut"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.brandfetch.io/idUmqKFgE3/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743997736787" />  
-
+<div>
+  <img 
+      align="left"
+      alt="python"
+      title="python"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img 
+      align="left"
+      alt="java"
+      title="java"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />       
+  <img 
+      align="left"
+      alt="react"
+      title="react"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img 
+      align="left"
+      alt="C Programming Language"
+      title="C Programming Language"
+      width="27px"
+      style="padding-right: 10px;"
+      src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+  <img 
+      align="left"
+      alt="PostgreSQL"
+      title="PostgreSQL"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img 
+      align="left"
+      alt="MySQL"
+      title="MySQL"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img 
+      align="left"
+      alt="vscode"
+      title="vscode"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img 
+      align="left"
+      alt="Photoshop"
+      title="Photoshop"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img 
+      align="left"
+      alt="Canva"
+      title="Canva"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
+  <img 
+      align="left"
+      alt="CapCut"
+      title="CapCut"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.brandfetch.io/idUmqKFgE3/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743997736787" />  
+</div>
