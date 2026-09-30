@@ -34,13 +34,6 @@ Me chamo Fabricio Fiss Bartz, moro no Rio Grande do Sul. Tenho graduação em En
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img 
       align="left"
-      alt="C Programming Language"
-      title="C Programming Language"
-      width="27px"
-      style="padding-right: 10px;"
-      src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-  <img 
-      align="left"
       alt="PostgreSQL"
       title="PostgreSQL"
       width="30px"
